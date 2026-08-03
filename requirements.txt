@@ -1,0 +1,10 @@
+# AI Cartoon App Dependencies
+streamlit
+opencv-python
+numpy
+pillow
+bcrypt
+razorpay
+sqlite3
+python-dotenv
+qrcode
